@@ -1,0 +1,43 @@
+!SESSION 2015-10-01 11:49:53.328 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.354
+!MESSAGE System property http.proxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.357
+!MESSAGE System property http.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.359
+!MESSAGE System property https.proxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.360
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.361
+!MESSAGE System property socksProxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.362
+!MESSAGE System property socksProxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.363
+!MESSAGE System property https.proxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.364
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.365
+!MESSAGE System property socksProxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.366
+!MESSAGE System property socksProxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.367
+!MESSAGE System property socksProxyHost is not set but should be cache.univ-nantes.fr.
+
+!ENTRY org.eclipse.core.net 1 0 2015-10-01 11:50:11.368
+!MESSAGE System property socksProxyPort is not set but should be 3128.
